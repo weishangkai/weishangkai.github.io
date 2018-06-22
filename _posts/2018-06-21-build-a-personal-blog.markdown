@@ -4,22 +4,14 @@ title:  "How to build a personal blog?"
 date:   2018-06-21 21:24:29 -0500
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This documents tell you how to build a personal blog with github and Jekyll.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+`1,` Access the [github] and register a personal account.
 
-Jekyll also offers powerful support for code snippets:
+`2,` Access [github-pages] to learn how to build a blog. After completing this step, your blog is already accessible.
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+`3,` If you want to make your blog beautiful, I suggest you learn how to using [Jekyll] on you blog.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[github]: https://github.com/
+[github-pages]:  https://pages.github.com/
+[Jekyll]: https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/
