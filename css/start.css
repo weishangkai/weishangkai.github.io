@@ -15,7 +15,7 @@
 }
 .tiles-group {
   margin-left: 0;
-  margin-top: 50px;
+  margin-top: 10px;
 }
 @media all and (min-width: 768px) {
   .start-screen-title {
