@@ -148,7 +148,7 @@ dt {
 }
 
 header {
-  padding: 25px 20px 40px 20px;
+  padding: 15px 20px 5px 20px;
   margin: 0;
   position: fixed;
   top: 0;
@@ -271,10 +271,10 @@ header {
 }
 
 section {
-  width:590px;
+  width:750px;
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
-  margin-top: 190px;
+  margin-top: 100px;
   position:relative;
   background: #fbfbfb;
   border-radius: 3px;
@@ -287,11 +287,11 @@ small {
 }
 
 nav {
-  width: 230px;
+  width: 250px;
   position: fixed;
-  top: 220px;
+  top: 120px;
   left:50%;
-  margin-left:-580px;
+  margin-left:-600px;
   text-align: right;
 
   ul {

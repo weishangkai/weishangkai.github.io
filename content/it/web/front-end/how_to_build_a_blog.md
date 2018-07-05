@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Template for this blog
+description: all java
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
