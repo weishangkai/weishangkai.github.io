@@ -3,7 +3,7 @@ layout: default
 title: Template for this blog
 description: all java
 ---
-[download the source](work_with_markdown.md)
+> [markdown syntax](https://daringfireball.net/projects/markdown/syntax#list)
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
