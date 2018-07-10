@@ -4,7 +4,7 @@ title: Template for this blog
 description: 
 ---
 
-为了简单，就用github pages搭建了个人博客，我主要用到了以下技术。
+>github pages可以免费托管博客，并且管理起来也很方便，因此我选用它作为博客托管工具。jekyll作为一个博客模板工具，内置了对markdown的支持，编辑起来非常方便。而且githubpages内置支持jekyll模板，因此我选它作为模板工具，可以方便切换主题。这是我用到的主要工具。
 
 * 博客托管
 	
@@ -12,7 +12,7 @@ description:
 
 * 博客模板
 	
-	我使用[jekyll](https://jekyllrb.com/)作为模板，github pages内置了对jekyll的支持。我使用的是jekyll-theme-leap-day风格。下载对应的主题，把源码集成到到自己的博客中。修改相应配置。
+	[jekyll](https://jekyllrb.com/)
 
 * 个性化主题
 	
@@ -21,3 +21,4 @@ description:
 * 文档编辑工具
 	
 	[markdownpad](http://markdownpad.com/)
+
