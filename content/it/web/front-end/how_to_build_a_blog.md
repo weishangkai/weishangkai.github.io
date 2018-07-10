@@ -12,7 +12,7 @@ description:
 
 * 博客模板
 	
-	[jekyll](https://jekyllrb.com/)
+	我使用[jekyll](https://jekyllrb.com/)作为模板，github pages内置了对jekyll的支持。我使用的是jekyll-theme-leap-day风格。下载对应的主题，把源码集成到到自己的博客中。修改相应配置。
 
 * 个性化主题
 	
