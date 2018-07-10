@@ -14,11 +14,11 @@ description:
 	
 	[jekyll](https://jekyllrb.com/)
 
-* 个性化主题
+* metro 风格个性化资源
 	
 	[metroui](https://metroui.org.ua/)
 
-* 文档编辑工具
+* markdown 编辑器
 	
 	[markdownpad](http://markdownpad.com/)
 
