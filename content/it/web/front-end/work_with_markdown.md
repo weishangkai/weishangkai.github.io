@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Template for this blog
+title: Work with markdown
 description: all java
 ---
 > [markdown syntax](https://daringfireball.net/projects/markdown/syntax#list)

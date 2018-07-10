@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Template for this blog
+title: How to build a blog
 description: 
 ---
 
