@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 我教老婆除甲醛
-description: 
+comments: false
 ---
 
 # 检测甲醛含量

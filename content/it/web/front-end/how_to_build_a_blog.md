@@ -1,6 +1,7 @@
 ---
 layout: default
 title: How to build a blog
+comments: true
 description: 
 ---
 

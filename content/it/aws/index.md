@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Amazon Simple Storage Service
-description: 
+comments: false
 ---
 
 # S3

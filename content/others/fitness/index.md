@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Health and Fitness
-description: 
+comments: false
 ---
 
 ### [瑜伽之光](yoga.html)

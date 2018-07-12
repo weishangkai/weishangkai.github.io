@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 关于JAVA的一切
-description: 
+comments: false
 ---
 
 # Thinking in Java

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Thinking in Thinking
-description: 
+comments: false
 ---
 
 # 方法论

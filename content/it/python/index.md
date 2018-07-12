@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Python
-description: 
+comments: false
 ---
 
 # Head first python
