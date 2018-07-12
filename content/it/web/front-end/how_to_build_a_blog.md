@@ -15,6 +15,10 @@ description:
 	
 	[jekyll](https://jekyllrb.com/)
 
+* 评论系统
+
+	[disqus](https://disqus.com/)
+
 * metro 风格个性化资源
 	
 	[metroui](https://metroui.org.ua/)
