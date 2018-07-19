@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 睡眠
+title: 科学睡眠
 description: 
 ---
 
@@ -8,18 +8,18 @@ description:
 
 ## 神奇的睡眠
 
-俄国斯人定的一本书，最核心的是`光照`和`运动`。
+[Kacper M. Postawski](http://powerfulsleep.com/) 写的一本书。书中提出睡眠最核心的是`体温周期`：在体温下降的过程，人会有困意。体温上升的过程，人会保持清醒和活力。而影响体温周期的核心要素是`光照`和`运动`。
 
 ![magic_sleep](sleep/magic_sleep.png)
 
 ## 睡眠十律
 
-BBC的一个记录片，关于睡眠的十件事
+BBC制作的一个记录片，关于高质量睡眠的十件事。可以在B站上看到免费完整版。
 
 ![10_thing_4_sleep](sleep/10_thing_4_sleep.png)
 
 ## 计划
 
-结合《神奇的睡眠》和《睡眠十律》，很多操作都是相通的。所以以此为根据制订了执行计划，重在执行。
+看完之后，发现《神奇的睡眠》和《睡眠十律》很多方面都是相通的，结合网友经验，制订了一个睡眠计划，重在执行。
 
 ![plan_4_sleep](sleep/plan_4_sleep.png)
