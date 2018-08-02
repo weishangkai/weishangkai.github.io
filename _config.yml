@@ -1,5 +1,8 @@
 title: Kai's Blog
-description: Leap Day is a theme for GitHub Pages.
+description: Wei Shangkai's blog for personal learning
 show_downloads: true
-google_analytics:
-theme: jekyll-theme-leap-day
+google_analytics: true
+theme: jekyll-theme-time-machine
+github.repository_name: weishangkai.github.io
+github.tar_url: https://codeload.github.com/weishangkai/weishangkai.github.io/tar.gz/master
+github.zip_url: https://codeload.github.com/weishangkai/weishangkai.github.io/zip/master

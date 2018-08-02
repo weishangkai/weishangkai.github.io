@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Learn more study less
-comments: false
 ---
 
 斯科特·扬在家用了12个月，通过互联网完成了四年麻省理工大学33门的计算机课程。《如何高效学习》是他对学习方法的一个总结。我看的是中文版，原版书名为《learn more study less》，我觉得原版书名更能突显此书的核心，所以用它作为博客标题。
