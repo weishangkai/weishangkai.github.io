@@ -8,7 +8,7 @@ description:
 
 ## 神奇的睡眠
 
-[Kacper M. Postawski](http://powerfulsleep.com/) 写的一本书。书中提出睡眠最核心的是`体温周期`：在体温下降的过程，人会有困意。体温上升的过程，人会保持清醒和活力。而影响体温周期的核心要素是`光照`和`运动`。
+[Kacper M. Postawski](http://powerfulsleep.com/) 写的一本书。书中提出睡眠最核心的是**_体温周期_**：在体温下降的过程，人会有困意。体温上升的过程，人会保持清醒和活力。而影响体温周期的核心要素是**_光照_**和**_运动_**。
 
 ![magic_sleep](sleep/magic_sleep.png)
 

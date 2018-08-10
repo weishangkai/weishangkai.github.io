@@ -5,7 +5,7 @@ description: all java
 ---
 > [markdown syntax](https://daringfireball.net/projects/markdown/syntax#list)
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Text can be _**bold**_, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
 
