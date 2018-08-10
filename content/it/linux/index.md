@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Linux is not only a OS
-comments: false
 ---
 
 # Linux基础

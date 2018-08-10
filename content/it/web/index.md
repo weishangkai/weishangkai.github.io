@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Website framework
-comments: false
 ---
 # Framework
 * spring

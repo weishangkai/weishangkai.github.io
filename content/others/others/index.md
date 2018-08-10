@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Others of Others
-comments: false
 description: others..
 ---
 

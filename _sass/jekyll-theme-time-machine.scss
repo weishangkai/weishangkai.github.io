@@ -25,12 +25,13 @@ a:hover {
 
 code, pre {
   font-family: 'Monaco', 'Lucida Console', monospace;
-  color: white;
+ /* color: white;
   background-color: #51dc4f;
   font-family: cursive;
   font-weight: bold;
   font-style: normal;
   font-size: 20px;
+  */
 }
 
 h1.title {
@@ -251,7 +252,7 @@ a.download-button {
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#37ADD4', endColorstr='#1B657E'); /* IE <= 9 */
   background: -webkit-gradient(linear, left top, left bottom, from(#37ADD4), to(#1B657E)); /* ancient webkit browsers */
   background: -webkit-linear-gradient(top,  #37ADD4,  #1B657E);  /* Safari <=6.1, Android <= 4.3 */
-  background: linear-gradient(to bottom,  #37ADD4,  #1B657E);
+  background: linear-gradient(to bottom,  lime,  black);
   height: auto;
   margin-left: 10px;
 }

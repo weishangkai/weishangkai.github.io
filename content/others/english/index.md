@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Learning English
-comments: false
 ---
 
 # 方法
