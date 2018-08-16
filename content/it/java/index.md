@@ -4,7 +4,7 @@ title: 关于JAVA的一切
 ---
 
 # Thinking in Java
-* GC
+* [初始化和清除](gc.html)
 * String
 * 异常
 * 类型鉴定
