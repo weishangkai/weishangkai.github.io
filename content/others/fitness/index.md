@@ -7,4 +7,4 @@ title: Health and Fitness
 
 ### [科学睡眠](sleep.html)
 
-### [健身记录](record.html)
+### [健身笔记](note.html)

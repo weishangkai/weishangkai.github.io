@@ -44,15 +44,22 @@ h1.title {
   text-align: center;
 }
 
+h6.title {
+  margin: 10px 10px 10px;
+  font-size: 24px;
+  font-weight: 200;
+  text-align: center;
+}
+
 .wrapper {
   width: 80%;
   margin: 0 auto;
 }
 
 #container {
-  border: 1px solid #2a2a2a;
+  border: 1px solid #c18d00;
   background: #ddd url(../images/pattern.png);
-  box-shadow: 0 0 40px #000;
+  box-shadow: 0 0 180px #c18d00;
 }
 
 p.tagline {
@@ -423,7 +430,7 @@ footer .owner p a {
 
 .markdown-body table {
   width: 100%;
-  box-shadow: 0 0 15px green;
+  box-shadow: 0 0 15px #ffcc40;
 }
 
 .markdown-body tbody {

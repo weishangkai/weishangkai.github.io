@@ -2,6 +2,7 @@
 layout: default
 title: 访问控制
 description: access control public protected private package
+date_info: 2018.08.16 Queretaro
 ---
 
 访问控制的目标是为了**隐藏具体实现**：只开放给类库使用者必要的接口，保持这些接口不动。类库提供者可以修改其他代码，以重构，优化功能。
