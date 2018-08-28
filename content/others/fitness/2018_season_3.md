@@ -20,7 +20,44 @@ description:
 |19|Sunday|腿，腹|50min，篮球60min
 |:-|:-|:-|:-
 |20|Monday|背，二头，腹|60min
-|21|Tuesday||
-|22|Wednesday||
-|23|Thursday|
-|24|Friday|
+|21|Tuesday|胸，三头，腹|
+|22|Wednesday|腿，肩，腹|
+|23|Thursday|背，二头，腹|
+|24|Friday||
+|25|Saturday|胸，三头，腹|50min，篮球120min
+|26|Sunday||篮球120min
+|:-|:-|:-|:-
+|27|Monday|背，二头，腹|60min
+|28|Tuesday||
+|29|Wednesday||
+|30|Thursday||
+|31|Friday||
+
+### 2018年9月
+
+|日期|星期|项目|时间
+|:-|:-|:-|:-
+|1|Saturday|	|
+|1|Sunday|	|
+|:-|:-|:-|:-
+|2|Monday|	|
+|4|Tuesday|	|
+|5|Wednesday|	|
+|6|Thursday|	|
+|7|Friday|	|
+|8|Saturday|	|
+|9|Sunday|	|
+|:-|:-|:-|:-
+|10|Monday|	|
+|11|Tuesday|	|
+|12|Wednesday|	|
+|13|Thursday|	|
+|14|Friday|	|
+|15|Saturday|	|
+|16|Sunday|	|
+|:-|:-|:-|:-
+|17|Monday|	|
+|18|Tuesday|	|
+|19|Wednesday|	|
+|20|Thursday|	|
+|21|Friday|	|
