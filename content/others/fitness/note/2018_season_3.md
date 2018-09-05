@@ -28,20 +28,20 @@ description:
 |26|Sunday||篮球120min
 |:-|:-|:-|:-
 |27|Monday|背，二头，腹|60min
-|28|Tuesday||
+|28|Tuesday|腿，肩，腹|60min
 |29|Wednesday||
-|30|Thursday||
-|31|Friday||
+|30|Thursday|胸,三头，腹|60min
+|31|Friday||椭圆机60min
 
 ### 2018年9月
 
 |日期|星期|项目|时间
 |:-|:-|:-|:-
-|1|Saturday|	|
-|1|Sunday|	|
+|1|Saturday|背，二头，腹	|60min
+|1|Sunday|	|篮球90min
 |:-|:-|:-|:-
-|2|Monday|	|
-|4|Tuesday|	|
+|2|Monday|腿，肩，腹	|60min
+|4|Tuesday|胸，三头，腹	|60min
 |5|Wednesday|	|
 |6|Thursday|	|
 |7|Friday|	|
