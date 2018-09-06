@@ -7,6 +7,7 @@ title: 我知道的JAVA
 * [初始化和清除](gc.html)
 * [访问控制](access_control.html)
 * [复用类](reusing.html)
+* [多态](polymorphism.html)
 * String
 * 异常
 * 类型鉴定
