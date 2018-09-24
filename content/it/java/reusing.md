@@ -5,7 +5,7 @@ description: access control public protected private package
 date_info: 2018.08.17 Queretaro
 ---
 
-复用代码是Java最重要的功能，主要有组合和继承两种方式 。
+    复用代码是Java最重要的功能，主要有组合和继承两种方式 。
 
 ## 一图流
 

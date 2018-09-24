@@ -42,22 +42,13 @@ description:
 |:-|:-|:-|:-
 |2|Monday|腿，肩，腹	|60min
 |4|Tuesday|胸，三头，腹	|60min
-|5|Wednesday|	|
-|6|Thursday|	|
-|7|Friday|	|
+|5|Wednesday|背，二头，腹	|60min
+|6|Thursday|腿，肩，腹	|60min
+|7|Friday|胸	|篮球 50min
 |8|Saturday|	|
 |9|Sunday|	|
 |:-|:-|:-|:-
-|10|Monday|	|
-|11|Tuesday|	|
-|12|Wednesday|	|
-|13|Thursday|	|
-|14|Friday|	|
-|15|Saturday|	|
-|16|Sunday|	|
-|:-|:-|:-|:-
-|17|Monday|	|
-|18|Tuesday|	|
-|19|Wednesday|	|
-|20|Thursday|	|
-|21|Friday|	|
+
+
+---
+基本每周有5天力量训练，加上2天篮球。到目前为止坚持的比较好，已经初步养成健身习惯了，记笔记已经失去当初的监督作用。决定从今天起，只记录每周运动量不达标的。【9/23/2018 10:59:19 PM 】

@@ -4,7 +4,7 @@ title: Linux is not only a OS
 ---
 
 # Linux基础
-* [工具](tool.html)
+* [学习工具](tool.html)
 * 文件系统
 * 权限管理
 * VI

@@ -7,7 +7,7 @@ date_info: 2018.09.06 Queretaro
 
 ## Mobaxterm
 
-在没有Linux系统的场景下，或者单纯想在windows上使用linux bash, Vim, sed, awk，unzip.. 这些工具怎么办？ win10推出了Bash on windows，这个我没有使用过，我自己是在电脑上安装了Mobaxterm.
+如何在没有Linux主机的场景下学习shell? 或者单纯想在windows上使用bash, Vim, sed, awk，unzip这些工具怎么办？ win10推出了Bash on windows，这个工具我没有使用过，我自己是在电脑上安装了Mobaxterm来实现的。在这儿介绍一下强大的Mobaxterm。
 
 ### Tips
 
@@ -17,5 +17,6 @@ date_info: 2018.09.06 Queretaro
   ```
 	apt-cyg install man
   ```
-4. 在Mobaxterm的设置中勾选使用windows环境变量，可以继承windows环境变更。之后可以用Mobaxterm来替代cmd工作，当然也可以替代Git Bash工作。
+4. 在Mobaxterm的设置中勾选使用windows环境变量，可以继承windows环境变更。之后可以用Mobaxterm来替代cmd工作，也可以替代Git Bash工作。一个IDE搞定一切。
+
   ![setting](tool/mobaxterm_config.bmp)
