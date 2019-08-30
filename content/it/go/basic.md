@@ -1,0 +1,1 @@
+﻿﻿---layout: defaulttitle: 基础语法description: golang有别于C和JAVA的地方date_info: 2019.08.30 成都---    ## 一图流![go_basic](basic/basic.png)
